@@ -1,0 +1,35 @@
+{
+  "questions": [
+    {
+      "subject": "Direct Tax Laws",
+      "chapter": "Capital Gains",
+      "topic": "Exemptions",
+      "difficulty": "Easy",
+      "question": "Under section 54, exemption is primarily available on capital gains from transfer of which asset?",
+      "options": [
+        "Residential house property",
+        "Shares",
+        "Jewellery",
+        "Plant and machinery"
+      ],
+      "answer": 1,
+      "explanation": "Section 54 applies to LTCG on transfer of a residential house, subject to reinvestment conditions."
+    },
+    {
+      "subject": "Indirect Tax",
+      "chapter": "Input Tax Credit",
+      "topic": "Blocked Credits",
+      "difficulty": "Medium",
+      "question": "ITC is blocked under GST for which expense?",
+      "options": [
+        "Office rent",
+        "Motor vehicle for personal use",
+        "Raw materials",
+        "Export freight"
+      ],
+      "answer": 2,
+      "explanation": "Section 17(5) blocks ITC on motor vehicles except in specified cases."
+    }
+  ]
+}
+

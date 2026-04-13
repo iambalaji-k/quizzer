@@ -1,0 +1,5 @@
+subject,chapter,topic,difficulty,question,option1,option2,option3,option4,answer,explanation
+Direct Tax Laws,Capital Gains,Exemptions,Easy,"Under section 54, exemption is primarily available on capital gains from transfer of which asset?","Residential house property","Shares","Jewellery","Plant and machinery",1,"Section 54 is for LTCG on transfer of a residential house, reinvested in another residential house."
+Indirect Tax,Input Tax Credit,Blocked Credits,Medium,"ITC is blocked under GST for which expense?","Office rent","Motor vehicle for personal use","Raw materials","Export freight",2,"Section 17(5) blocks ITC on motor vehicles with specified exceptions."
+FR,Financial Statements,Inventory Valuation,Hard,"As per Ind AS 2, inventory is valued at lower of:","Cost and fair value","Cost and NRV","NRV and replacement cost","Historical cost and market value",2,"Ind AS 2 requires inventory at lower of cost and net realizable value."
+
